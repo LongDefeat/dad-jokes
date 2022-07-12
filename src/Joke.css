@@ -1,0 +1,19 @@
+.Joke {
+  margin-bottom: 0.75em;
+  padding: .5rem;
+}
+
+.Joke-votearea {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.Joke-votearea > * {
+  margin-right: 1em;
+  padding: .30rem;
+}
+.Joke-text {
+  margin-left: 1em;
+  display: inline-block;
+  width: 500px;
+}
